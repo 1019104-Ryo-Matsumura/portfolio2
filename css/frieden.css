@@ -177,7 +177,7 @@ footer{
 #footer .intro{
   padding: 0 30px;
 }
-.btn{
+.flowbtn7{
   border-radius:50%;
   position:relative;
   display:inline-block;
@@ -188,7 +188,7 @@ footer{
   text-decoration:none;
   transition:.5s;			
   }
-  .btn i{
+  .flowbtn7 i{
   position:absolute;
   top:50%;
   left:50%;
